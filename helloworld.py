@@ -1,3 +1,5 @@
 print ("Hello, world!")
 print ("Something else")
 print ("Added new line")
+print ("2nd merge conflict")
+print ("Goodbye World!")
